@@ -2,6 +2,12 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgencyWeb", "TravelAgencyWeb\TravelAgencyWeb.csproj", "{B6EA338E-B71E-490C-981A-62207546D820}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.DAL", "TravelAgency.DAL\TravelAgency.DAL.csproj", "{44480373-CE6B-4047-9219-AA7CAC142084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.Domain", "TravelAgency.Domain\TravelAgency.Domain.csproj", "{B8D3DA24-FEDC-4BA5-97CC-75EA760273D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgency.Service", "TravelAgency.Service\TravelAgency.Service.csproj", "{4AC96B23-55EA-4884-BE6D-F42072DEDC81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +18,17 @@ Global
 		{B6EA338E-B71E-490C-981A-62207546D820}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6EA338E-B71E-490C-981A-62207546D820}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6EA338E-B71E-490C-981A-62207546D820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44480373-CE6B-4047-9219-AA7CAC142084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44480373-CE6B-4047-9219-AA7CAC142084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44480373-CE6B-4047-9219-AA7CAC142084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44480373-CE6B-4047-9219-AA7CAC142084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D3DA24-FEDC-4BA5-97CC-75EA760273D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D3DA24-FEDC-4BA5-97CC-75EA760273D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D3DA24-FEDC-4BA5-97CC-75EA760273D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D3DA24-FEDC-4BA5-97CC-75EA760273D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC96B23-55EA-4884-BE6D-F42072DEDC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC96B23-55EA-4884-BE6D-F42072DEDC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC96B23-55EA-4884-BE6D-F42072DEDC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC96B23-55EA-4884-BE6D-F42072DEDC81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
